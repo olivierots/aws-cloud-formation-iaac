@@ -6,5 +6,5 @@ AWS cloud formation training &amp; various projects
 * wrote infrastructure as a code
 * launched several templates
 
-https://www.udemy.com/course/aws-cloudformation-master-class/
-https://www.udemy.com/course/aws-ec2-masterclass/
+1. https://www.udemy.com/course/aws-cloudformation-master-class/
+2. https://www.udemy.com/course/aws-ec2-masterclass/
